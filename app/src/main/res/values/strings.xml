@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">android-homework-5</string>
+    <string name="page_title">News</string>
+    <string name="post_text_1">Hello! This is the first post.</string>
+    <string name="dsc">someGoodThings</string>
+    <string name="comment">Comments page</string>
+    <string name="mark">Text…</string>
+    <string name="back">Back</string>
+    <string name="confirm">Confirm</string>
+    <string-array name="post_texts">
+        <item>Hello! This is the first post.</item>
+        <item>Hello! This is the second post.</item>
+        <item>Hello! This is the third post.</item>
+        <item>Hello! This is the fourth post.</item>
+        <item>Hello! This is the fifth post.</item>
+        <item>Hello! This is the sixth post.</item>
+        <item>Hello! This is the seventh post.</item>
+    </string-array>
+</resources>
